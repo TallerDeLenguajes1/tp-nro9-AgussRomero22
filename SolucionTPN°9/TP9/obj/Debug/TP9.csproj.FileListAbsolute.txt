@@ -1,0 +1,27 @@
+C:\Users\Alumno\Desktop\SolucionTPN°9\TP9\bin\Debug\TP9.exe.config
+C:\Users\Alumno\Desktop\SolucionTPN°9\TP9\bin\Debug\TP9.exe
+C:\Users\Alumno\Desktop\SolucionTPN°9\TP9\bin\Debug\TP9.pdb
+C:\Users\Alumno\Desktop\SolucionTPN°9\TP9\obj\Debug\TP9.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\SolucionTPN°9\TP9\obj\Debug\TP9.exe
+C:\Users\Alumno\Desktop\SolucionTPN°9\TP9\obj\Debug\TP9.pdb
+C:\Users\Alumno\Desktop\SolucionTPN°9\TP9\bin\Debug\TP9 Helpers.exe
+C:\Users\Alumno\Desktop\SolucionTPN°9\TP9\bin\Debug\TP9 Helpers.pdb
+E:\SolucionTPN°9\TP9\bin\Debug\TP9.exe.config
+E:\SolucionTPN°9\TP9\obj\Debug\TP9.exe
+E:\SolucionTPN°9\TP9\obj\Debug\TP9.pdb
+E:\SolucionTPN°9\TP9\bin\Debug\TP9.exe
+E:\SolucionTPN°9\TP9\bin\Debug\TP9.pdb
+E:\SolucionTPN°9\TP9\bin\Debug\TP9 Helpers.exe
+E:\SolucionTPN°9\TP9\bin\Debug\TP9 Helpers.pdb
+E:\SolucionTPN°9\TP9\obj\Debug\TP9.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\SolucionTPN°9\TP9\bin\Debug\TP9.exe.config
+C:\Users\Usuario\Desktop\SolucionTPN°9\TP9\bin\Debug\TP9.exe
+C:\Users\Usuario\Desktop\SolucionTPN°9\TP9\bin\Debug\TP9.pdb
+C:\Users\Usuario\Desktop\SolucionTPN°9\TP9\bin\Debug\TP9 Helpers.exe
+C:\Users\Usuario\Desktop\SolucionTPN°9\TP9\bin\Debug\TP9 Helpers.pdb
+C:\Users\Usuario\Desktop\SolucionTPN°9\TP9\bin\Debug\TP9 Helpers.exe.config
+C:\Users\Usuario\Desktop\SolucionTPN°9\TP9\obj\Debug\TP9.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\SolucionTPN°9\TP9\obj\Debug\TP9.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SolucionTPN°9\TP9\obj\Debug\TP9.csproj.CopyComplete
+C:\Users\Usuario\Desktop\SolucionTPN°9\TP9\obj\Debug\TP9.exe
+C:\Users\Usuario\Desktop\SolucionTPN°9\TP9\obj\Debug\TP9.pdb
